@@ -1,4 +1,4 @@
-package configmgr
+package configMgr
 
 type Server struct {
 	Name string
